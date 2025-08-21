@@ -1,0 +1,1 @@
+This lets you save, look at, and find Aptos wallet addresses along with names and notes. It’s super helpful for developers, founders, and anyone building stuff on Aptos to keep their contacts neat and easy to find in the ecosystem
